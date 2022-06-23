@@ -17,7 +17,5 @@
 
 ## Links:
 
-- [Documentation Website](https://ojo-documentation-ie5mdr3jgq-uc.a.run.app/)
-- [Project Tracking Sheet](https://docs.google.com/spreadsheets/d/16_VbjnshvqLkXvMG9H07DbDDTogHnxIthyVqRm5B2Yc/edit?usp=sharing)
 - [OJO Website](https://openjustice.okpolicy.org/)
 
