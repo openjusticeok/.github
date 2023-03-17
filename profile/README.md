@@ -10,10 +10,10 @@
 
 ## Research Team:
 - **Brancen Gregory**, Research Director (bgregory@okpolicy.org)
-- **Ashley Harvey**, Data Analyst (aharvey@okpolicy.org)
-- **Andrew Bell**, Data Analyst (abell@okpolicy.org)
-- **Polina Rozhkova**, Data Analyst (prozhkova@okpolicy.org)
+- **Andrew Bell**, Senior Data Analyst (abell@okpolicy.org)
 - **Anthony Flores**, Data Analyst (aflores@okpolicy.org)
+- **Ashley Harvey**, Data Analyst (aharvey@okpolicy.org)
+- **Polina Rozhkova**, Data Analyst (prozhkova@okpolicy.org)
 
 ## Links:
 
