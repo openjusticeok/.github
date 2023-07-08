@@ -14,6 +14,7 @@
 - **Anthony Flores**, Data Analyst (aflores@okpolicy.org)
 - **Ashley Harvey**, Data Analyst (aharvey@okpolicy.org)
 - **Polina Rozhkova**, Data Analyst (prozhkova@okpolicy.org)
+- **Zarina Davletova**, Tulsa Service Year Fellow (zdavletova@okpolicy.org)
 
 ## Links:
 
