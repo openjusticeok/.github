@@ -1,4 +1,6 @@
-# ![ojo-logo](https://user-images.githubusercontent.com/56839927/167904452-f4546044-574f-420b-883e-c8a13d5987ba.png) Open Justice Oklahoma Research Projects
+<img src="https://okpolicy.wpenginepowered.com/wp-content/themes/okpolicy-v3/images/OKPolicyLogo.svg" style="width:883.2px; height:100px;"/>
+
+# Oklahoma Policy Institute - Research Team
 
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
@@ -8,14 +10,11 @@
 ![Arch](https://img.shields.io/badge/arch-linux?style=for-the-badge&logo=arch-linux&logoColor=white)
 
 ## Research Team:
-- **Brancen Gregory**, Research Director (bgregory@okpolicy.org)
-- **Andrew Bell**, Senior Data Analyst (abell@okpolicy.org)
-- **Anthony Flores**, Data Analyst (aflores@okpolicy.org)
-- **Ashley Harvey**, Data Analyst (aharvey@okpolicy.org)
-- **Polina Rozhkova**, Data Analyst (prozhkova@okpolicy.org)
-- **Zarina Davletova**, Tulsa Service Year Fellow (zdavletova@okpolicy.org)
+- **Anthony Flores**, Research Director (aflores@okpolicy.org)
+- **Brancen Gregory**, Senior Data Architect & Engineer (bgregory@okpolicy.org)
+- **Andrew Bell**, Senior Research & Data Analyst (abell@okpolicy.org)
+- **Ashley Harvey**, Research & Data Analyst (aharvey@okpolicy.org)
+- **Polina Rozhkova**, Research & Data Analyst (prozhkova@okpolicy.org)
 
-## Links:
-
-- [OJO Website](https://openjustice.okpolicy.org/)
-
+## Resources:
+- *Website* - [okpolicy.org](https://okpolicy.org/)
