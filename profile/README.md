@@ -9,6 +9,14 @@
 ![Pop! OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white)
 ![Arch](https://img.shields.io/badge/arch-linux?style=for-the-badge&logo=arch-linux&logoColor=white)
 
+A GitHub organization operated by **OK Policy's Research Team**! 🤠
+
+This is where we house and maintain the code powering our research, data analysis, and data infrastructure.
+
+Some of our repos are public, so take a look and see if there's anything useful for your own research! Please let us know about it if you do, we'd love to see what you make with it! 🤩
+
+*OK Policy is an non-partisan non-profit. We advance equitable and fiscally responsible policies leading to expanded opportunity for all Oklahomans through nonpartisan research, analysis, and advocacy.*
+
 ## Research Team:
 - **Anthony Flores**, Research Director (aflores@okpolicy.org)
 - **Brancen Gregory**, Senior Data Architect & Engineer (bgregory@okpolicy.org)
