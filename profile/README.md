@@ -6,7 +6,6 @@
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
-![Pop! OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white)
 ![Arch](https://img.shields.io/badge/arch-linux?style=for-the-badge&logo=arch-linux&logoColor=white)
 
 A GitHub organization operated by **OK Policy's Research Team**! 🤠
@@ -20,7 +19,6 @@ Some of our repos are public, so take a look and see if there's anything useful 
 ## Research Team:
 - **Anthony Flores**, Research Director (aflores@okpolicy.org)
 - **Brancen Gregory**, Senior Data Architect & Engineer (bgregory@okpolicy.org)
-- **Andrew Bell**, Senior Research & Data Analyst (abell@okpolicy.org)
 - **Ashley Harvey**, Research & Data Analyst (aharvey@okpolicy.org)
 - **Polina Rozhkova**, Research & Data Analyst (prozhkova@okpolicy.org)
 
