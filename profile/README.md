@@ -20,9 +20,8 @@ Some of our repos are public, so take a look and see if there's anything useful 
 ## Research Team:
 - **Anthony Flores**, Research Director (aflores@okpolicy.org)
 - **Brancen Gregory**, Senior Data Architect & Engineer (bgregory@okpolicy.org)
-- **Andrew Bell**, Senior Research & Data Analyst (abell@okpolicy.org)
-- **Ashley Harvey**, Research & Data Analyst (aharvey@okpolicy.org)
 - **Polina Rozhkova**, Research & Data Analyst (prozhkova@okpolicy.org)
+- **Mason Counts**, Data & Software Engineer (mcounts@okpolicy.org)
 
 ## Resources:
 - *Website* - [okpolicy.org](https://okpolicy.org/)
