@@ -21,6 +21,7 @@ Some of our repos are public, so take a look and see if there's anything useful 
 - **Brancen Gregory**, Senior Data Architect & Engineer (bgregory@okpolicy.org)
 - **Polina Rozhkova**, Research & Data Analyst (prozhkova@okpolicy.org)
 - **Mason Counts**, Data & Software Engineer (mcounts@okpolicy.org)
+- **Sush Chittibabu**, Research & Data Analyst (schittibabu@okpolicy.org)
 
 ## Resources:
 - *Website* - [okpolicy.org](https://okpolicy.org/)
